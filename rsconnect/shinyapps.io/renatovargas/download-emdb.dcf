@@ -1,0 +1,12 @@
+name: download-emdb
+title: download-emdb
+username: renatovargas
+account: renatovargas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14067183
+bundleId: 9838721
+url: https://renatovargas.shinyapps.io/download-emdb/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
